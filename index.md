@@ -2,4 +2,4 @@
 
 It is made from International Workshop, IOT 2012, Changsha, China, August 17-19, 2012. Proceedings
 
-https://link.springer.com/book/10.1007/978-3-642-32427-7
+[link to eBook!](https://link.springer.com/book/10.1007/978-3-642-32427-7)
